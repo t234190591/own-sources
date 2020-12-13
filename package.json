@@ -1,0 +1,18 @@
+{
+  "name": "own-sources",
+  "version": "1.0.0",
+  "description": "write and study some source of js.",
+  "main": "index.js",
+  "repository": "https://github.com/t234190591/own-sources.git",
+  "author": "tangyao <234190591@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.12.10",
+    "@babel/preset-typescript": "^7.12.7",
+    "jest": "^26.6.3",
+    "typescript": "^4.1.3"
+  }
+}
